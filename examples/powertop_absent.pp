@@ -1,0 +1,3 @@
+class { 'powertop':
+  ensure => 'absent',
+}

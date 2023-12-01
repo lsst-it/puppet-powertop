@@ -5,12 +5,7 @@
   "summary": "powertop module",
   "license": "AGPL-3.0",
   "source": "https://github.com/lsst-it/puppet-powertop",
-  "dependencies": [
-    {
-      "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 8.0.0 < 10.0.0"
-    }
-  ],
+  "dependencies": [],
   "operatingsystem_support": [
     {
       "operatingsystem": "CentOS",
