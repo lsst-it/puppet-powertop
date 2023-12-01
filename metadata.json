@@ -1,11 +1,13 @@
 {
   "name": "lsst-powertop",
-  "version": "0.1.0",
+  "version": "0.1.1-rc0",
   "author": "AURA/LSST/Rubin Observatory",
   "summary": "powertop module",
   "license": "AGPL-3.0",
   "source": "https://github.com/lsst-it/puppet-powertop",
-  "dependencies": [],
+  "dependencies": [
+
+  ],
   "operatingsystem_support": [
     {
       "operatingsystem": "CentOS",
